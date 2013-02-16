@@ -1,0 +1,33 @@
+﻿<Window x:Class="GymLogger.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="GymLogger dev" Height="900" Width="1600" Loaded="Window_Loaded_1" Closing="Window_Closing_1">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Viewbox Grid.Row="1" Grid.Column="0" Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Center">
+            <Grid>
+            <Image Name="RGBImage" Width="640" Height="480"/>
+            <Image Name="SKEImage" Width="640" Height="480"/>
+            </Grid>
+        </Viewbox>
+        <Canvas Grid.Column="1" Grid.Row="1">
+            <Button Width="50" Height="30" VerticalAlignment="Top" Name="Start" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" FontSize="18" Content="Start" BorderBrush="#FF1B0909"/>
+            <Button Width="50" Height="30" VerticalAlignment="Top" Name="End" Background="{DynamicResource {x:Static SystemColors.ActiveCaptionBrushKey}}" FontSize="18" Content="End" BorderBrush="#FF1B0909" Canvas.Left="379"/>
+            <TextBlock x:Name="Velocity" Width="295" Height="219" Canvas.Left="68" Canvas.Top="39" Background="{DynamicResource {x:Static SystemColors.GradientInactiveCaptionBrushKey}}" FontSize="30"><Run Text="Velocity&#xA;Left Wrist:"/><InlineUIContainer>
+            		<TextBlock Width="112" Height="35" Text="{Binding Path=speedLeft, StringFormat=D3, UpdateSourceTrigger=PropertyChanged}"/>
+            	</InlineUIContainer><Run Text="&#xA;Right Wrist: "/><InlineUIContainer>
+            		<TextBlock Width="112" Height="35"/>
+            	</InlineUIContainer></TextBlock>
+        </Canvas>
+    </Grid>
+</Window>

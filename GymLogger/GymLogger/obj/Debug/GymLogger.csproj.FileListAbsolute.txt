@@ -1,0 +1,13 @@
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.exe.config
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\MainWindow.baml
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\MainWindow.g.cs
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\App.g.cs
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger_MarkupCompile.cache
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.g.resources
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.Properties.Resources.resources
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.csproj.GenerateResource.Cache
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.csprojResolveAssemblyReference.cache
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.exe
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.pdb
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.exe
+c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.pdb
