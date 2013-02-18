@@ -16,8 +16,8 @@
         </Grid.ColumnDefinitions>
         <Viewbox Grid.Row="1" Grid.Column="0" Stretch="Uniform" HorizontalAlignment="Left" VerticalAlignment="Center">
             <Grid>
-            <Image Name="RGBImage" Width="640" Height="480"/>
-            <Image Name="SKEImage" Width="640" Height="480"/>
+                <Image Name="RGBImage" Width="640" Height="480"/>
+                <Image Name="SKEImage" Width="640" Height="480"/>
             </Grid>
         </Viewbox>
         <Canvas Grid.Column="1" Grid.Row="1">

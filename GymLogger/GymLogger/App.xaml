@@ -1,4 +1,4 @@
-﻿<Application x:Class="GymLogger.App"
+﻿<Application x:Class="Gymlogger.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              StartupUri="MainWindow.xaml">

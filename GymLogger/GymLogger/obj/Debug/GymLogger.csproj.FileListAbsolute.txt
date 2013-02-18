@@ -1,13 +1,11 @@
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.exe.config
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\MainWindow.baml
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\MainWindow.g.cs
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\App.g.cs
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger_MarkupCompile.cache
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.g.resources
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.Properties.Resources.resources
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.csproj.GenerateResource.Cache
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.csprojResolveAssemblyReference.cache
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.exe
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\bin\Debug\GymLogger.pdb
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.exe
-c:\users\kam\documents\visual studio 2012\Projects\GymLogger\GymLogger\obj\Debug\GymLogger.pdb
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\bin\Debug\Gymlogger.exe
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\bin\Debug\Gymlogger.pdb
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\MainWindow.baml
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\MainWindow.g.cs
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\App.g.cs
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger_MarkupCompile.cache
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.g.resources
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.Properties.Resources.resources
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.csproj.GenerateResource.Cache
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.exe
+C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.pdb

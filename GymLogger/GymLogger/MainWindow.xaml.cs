@@ -339,7 +339,7 @@ namespace GymLogger
         {
             double speed = 0;
             speed = Math.Sqrt(Math.Pow(Point2.X - Point1.X, 2.0) + Math.Pow(Point2.Y - Point1.Y, 2.0) + Math.Pow(Point2.Z - Point1.Z, 2.0)) * frameRate;
-            
+
             return speed;
         }
 
