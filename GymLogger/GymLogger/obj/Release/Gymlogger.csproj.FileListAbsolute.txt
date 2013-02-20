@@ -1,0 +1,13 @@
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\bin\Release\Gymlogger.exe
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\bin\Release\Gymlogger.pdb
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\ResolveAssemblyReference.cache
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\MainWindow.baml
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\MainWindow.g.cs
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\App.g.cs
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\Gymlogger_MarkupCompile.cache
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\Gymlogger.g.resources
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\Gymlogger.Properties.Resources.resources
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\GenerateResource.read.1.tlog
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\GenerateResource.write.1.tlog
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\Gymlogger.exe
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Release\Gymlogger.pdb

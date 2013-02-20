@@ -9,3 +9,16 @@ C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.Properties.Resource
 C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.csproj.GenerateResource.Cache
 C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.exe
 C:\Users\Kam\Desktop\Gymlogger\Gymlogger\obj\Debug\Gymlogger.pdb
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\Gymlogger.exe
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\Gymlogger.pdb
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\bin\Debug\Gymlogger.exe
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\bin\Debug\Gymlogger.pdb
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\ResolveAssemblyReference.cache
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\MainWindow.baml
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\MainWindow.g.cs
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\App.g.cs
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\Gymlogger_MarkupCompile.cache
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\Gymlogger.g.resources
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\Gymlogger.Properties.Resources.resources
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\GenerateResource.read.1.tlog
+D:\Research\Projects\github\KinectGym\GymLogger\Gymlogger\obj\Debug\GenerateResource.write.1.tlog
