@@ -20,6 +20,7 @@ namespace KinectMotionAnalyzer.Processors
 
     /// <summary>
     /// notifier class used to notify ui when data is updated
+    /// not useful anymore
     /// </summary>
     public abstract class Notifier: INotifyPropertyChanged
     {
@@ -46,7 +47,8 @@ namespace KinectMotionAnalyzer.Processors
 
 
     /// <summary>
-    /// used to fetch data and update UI
+    /// used to fetch data and update UI display image
+    /// visualization use
     /// </summary>
     public class KinectDataManager
     {
@@ -399,7 +401,7 @@ namespace KinectMotionAnalyzer.Processors
                         //    joint.JointType == JointType.Spine ||
                         // selectively draw joint status
                         if (
-                            joint.JointType == JointType.ShoulderLeft)
+                            joint.JointType == JointType.ElbowRight)
                         {
                             FormattedText formattedText = new FormattedText(
                             cur_joint_status[joint.JointType].abs_speed.ToString("F2") + "m/s\n" +

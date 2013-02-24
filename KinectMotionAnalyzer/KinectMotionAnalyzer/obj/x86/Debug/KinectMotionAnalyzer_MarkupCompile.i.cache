@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\Research\Projects\github\Kinect\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\x86\Debug\
+F:\Projects\GitHub\Kinect\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\x86\Debug\
 KinectMotionAnalyzer
 none
 false
 DEBUG;TRACE
-D:\Research\Projects\github\Kinect\KinectMotionAnalyzer\KinectMotionAnalyzer\App.xaml
+F:\Projects\GitHub\Kinect\KinectMotionAnalyzer\KinectMotionAnalyzer\App.xaml
 3272379627
 
-13-1964530509
-13-1855976625
+13-733869912
+17-504709804
 GestureConfigWin.xaml;GestureRecognizerWindow.xaml;MainWindow.xaml;
 
 True
