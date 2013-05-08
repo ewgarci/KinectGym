@@ -128,6 +128,7 @@
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Processors\BarbellAssess.cs" />
     <Compile Include="Processors\GestureRecognizer.cs" />
     <Compile Include="Processors\KinectRecorder.cs" />
     <Compile Include="UI\AngleSelection.xaml.cs">

@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\Dfosak\Desktop\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Debug\
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Debug\
 KinectMotionAnalyzer
 none
 false
 
-C:\Users\Dfosak\Desktop\KinectMotionAnalyzer\KinectMotionAnalyzer\App.xaml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\App.xaml
 7-1685643409
 
-17-1439349616
-24643726564
+171652596034
+241305563162
 UI\AngleSelection.xaml;UI\MeasurementConfigWin.xaml;UI\GestureConfigWin.xaml;UI\GestureRecognizerWindow.xaml;UI\MainWindow.xaml;UI\MotionAnalyzerWindow.xaml;UI\ExerciseWindow.xaml;
 
 True

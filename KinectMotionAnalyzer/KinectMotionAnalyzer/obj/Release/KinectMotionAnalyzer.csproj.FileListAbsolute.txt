@@ -1,0 +1,14 @@
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\bin\Release\KinectMotionAnalyzer.exe.config
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\KinectMotionAnalyzer.csprojResolveAssemblyReference.cache
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MeasurementConfigWin.baml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\GestureConfigWin.baml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\GestureRecognizerWindow.baml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MainWindow.baml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MotionAnalyzerWindow.baml
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MeasurementConfigWin.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\GestureConfigWin.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\GestureRecognizerWindow.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MainWindow.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\UI\MotionAnalyzerWindow.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\App.g.cs
+D:\Research\Projects\github\KinectGym\KinectMotionAnalyzer\KinectMotionAnalyzer\obj\Release\KinectMotionAnalyzer_MarkupCompile.cache
